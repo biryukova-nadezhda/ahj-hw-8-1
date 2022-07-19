@@ -1,7 +1,7 @@
 ## Анимация и CSS
 Git-pages: https://biryukova-nadezhda.github.io/ahj-hw-8-1/
 
-[![Build status](https://ci.appveyor.com/api/projects/status/py7x5bsbxu69vkv2?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-8-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/0gumksjl0cb81mj4?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-8-1)
 
 ---
 ### Collapse
